@@ -1,0 +1,55 @@
+{
+  "name": "string-filters",
+  "version": "0.1.0",
+  "description": "Fast native javascript string filters library.",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "types": "./dist/types/main.d.ts",
+  "main": "./dist/string-filters.umd.cjs",
+  "module": "./dist/string-filters.js",
+  "exports": {
+    ".": {
+      "types": "./dist/types/main.d.ts",
+      "import": "./dist/string-filters.js",
+      "require": "./dist/string-filters.umd.cjs"
+    }
+  },
+  "keywords": [
+    "string",
+    "filter",
+    "filters",
+    "formatter",
+    "string-manipulation",
+    "text-processing",
+    "utility",
+    "validation",
+    "transformation",
+    "sanitize",
+    "input-mask",
+    "javascript",
+    "js",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jivtroy/string-filters.git"
+  },
+  "author": "Jiv Troy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jivtroy/string-filters/issues"
+  },
+  "homepage": "https://github.com/jivtroy/string-filters",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && tsc",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1",
+    "vite-plugin-banner": "^0.8.1"
+  }
+}
