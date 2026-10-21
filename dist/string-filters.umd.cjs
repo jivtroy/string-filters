@@ -1,5 +1,5 @@
 /*! 
- * String Filters v0.1.1
+ * String Filters v1.0.0
  * Homepage (https://github.com/jivtroy/string-filters)
  * Copyright 2026 Jiv Troy
  * License: MIT
