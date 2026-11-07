@@ -48,37 +48,37 @@ npm install string-filters
 ### Bun
 
 ```bash
-bun add hover-menu
+bun add string-filters
 ```
 
 ### Deno
 
 ```bash
-deno add npm:hover-menu
+deno add npm:string-filters
 ```
 
 ### PNPM
 
 ```bash
-pnpm add hover-menu
+pnpm add string-filters
 ```
 
 ### Yarn
 
 ```bash
-yarn add hover-menu
+yarn add string-filters
 ```
 
 ### Nub
 
 ```bash
-nub install hover-menu
+nub install string-filters
 ```
 
 ### Vlt
 
 ```bash
-vlt install hover-menu
+vlt install string-filters
 ```
 
 ## Usage
