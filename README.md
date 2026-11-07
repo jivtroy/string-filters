@@ -7,6 +7,12 @@ Fast native javascript string filters library.
 1. [Compatibility](#compatibility)
 2. [Installation](#installation)
    1. [NPM](#npm)
+   2. [Bun](#bun)
+   3. [Deno](#deno)
+   4. [PNPM](#pnpm)
+   5. [Yarn](#yarn)
+   6. [Nub](#nub)
+   7. [Vlt](#vlt)
 3. [Usage](#usage)
    1. [Camel case](#camel-case)
    2. [Capitalize](#capitalize)
@@ -18,8 +24,9 @@ Fast native javascript string filters library.
    8. [Title case](#title-case)
    9. [Train case](#train-case)
    10. [Truncate](#truncate)
-4. [Author](#author)
-5. [License](#license)
+4. [Sponsors](#sponsors)
+5. [Author](#author)
+6. [License](#license)
 
 ## Compatibility
 
@@ -36,6 +43,42 @@ Safari | >= 16
 
 ```bash
 npm install string-filters
+```
+
+### Bun
+
+```bash
+bun add hover-menu
+```
+
+### Deno
+
+```bash
+deno add npm:hover-menu
+```
+
+### PNPM
+
+```bash
+pnpm add hover-menu
+```
+
+### Yarn
+
+```bash
+yarn add hover-menu
+```
+
+### Nub
+
+```bash
+nub install hover-menu
+```
+
+### Vlt
+
+```bash
+vlt install hover-menu
 ```
 
 ## Usage
@@ -212,6 +255,8 @@ let result = truncate('etcetera', 3, '...')
 // Output: etc...
 console.log(result)
 ```
+
+## Sponsors
 
 ## Author
 
