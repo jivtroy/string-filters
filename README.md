@@ -7,12 +7,6 @@ Fast native javascript string filters library.
 1. [Compatibility](#compatibility)
 2. [Installation](#installation)
    1. [NPM](#npm)
-   2. [Bun](#bun)
-   3. [Deno](#deno)
-   4. [PNPM](#pnpm)
-   5. [Yarn](#yarn)
-   6. [Nub](#nub)
-   7. [Vlt](#vlt)
 3. [Usage](#usage)
    1. [Camel case](#camel-case)
    2. [Capitalize](#capitalize)
@@ -43,42 +37,6 @@ Safari | >= 16
 
 ```bash
 npm install string-filters
-```
-
-### Bun
-
-```bash
-bun add string-filters
-```
-
-### Deno
-
-```bash
-deno add npm:string-filters
-```
-
-### PNPM
-
-```bash
-pnpm add string-filters
-```
-
-### Yarn
-
-```bash
-yarn add string-filters
-```
-
-### Nub
-
-```bash
-nub install string-filters
-```
-
-### Vlt
-
-```bash
-vlt install string-filters
 ```
 
 ## Usage
